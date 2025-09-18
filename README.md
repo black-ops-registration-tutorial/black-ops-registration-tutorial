@@ -3,9 +3,9 @@
 This tutorial will help you register successfully on the Black Ops darknet market.
 
  
-[<img src="/ui/static.webp" width="200">](http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion)
+[<img src="/ui/static.webp" width="200">](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion)
 
-<a href="http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion"><img src="/ui/prefs.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
+<a href="http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion"><img src="/ui/prefs.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
  
 
 Step 1: Use Tor Browser
@@ -33,8 +33,10 @@ Tips for a Secure Registration
 - Avoid using personally identifiable information.  
 - Verify you are on an authentic site by cross-checking links.
 
-For official tutorials and assistance, visit [Black Ops Official Site](http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion).
+For official tutorials and assistance, visit [Black Ops Official Site](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion).
 
 Conclusion
 
 Following a proper registration process safeguards your Black Ops marketplace account and access.
+
+Update:  18 September
