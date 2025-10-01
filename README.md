@@ -39,4 +39,6 @@ Conclusion
 
 Following a proper registration process safeguards your Black Ops marketplace account and access.
 
-Update:  18 September
+
+
+Update:  10/01/2025
